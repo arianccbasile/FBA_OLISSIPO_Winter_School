@@ -22,9 +22,9 @@ This repo hosts training materials for the [OLISSIPO Winter School]([https://www
 - **2.3**: Case study, simulate the Crabtree effect in yeast
 
 #### [Exercise 3] ()
-- **2.1**: Build a 2 members community
-- **2.2**: Perform community-based simulations
-- **2.3**: Basics of pandas to analyse exchanges
+- **3.1**: Build a 2 members community
+- **3.2**: Perform community-based simulations
+- **3.3**: Basics of pandas to analyse exchanges
 
 
 ## 🚚 Software requirements
