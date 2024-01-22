@@ -1,5 +1,5 @@
-# FBA_OLISSIPO_Winter_School
-# 🦠 Systems Biology Practical: FBA with GEMs 🧬
+# 🦠 FBA_OLISSIPO_Winter_School 🧬
+ 
 
 [![DOI](https://zenodo.org/badge/740951705.svg)](https://zenodo.org/doi/10.5281/zenodo.10475949)
 
