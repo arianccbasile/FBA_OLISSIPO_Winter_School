@@ -16,7 +16,7 @@ This repo hosts training materials for the [OLISSIPO Winter School]([https://www
 - **1.4**: Inspect the genes in your model
 - **1.4.1**: Perform in-silico gene knockout experiments
 
-#### [Exercise 2](https://github.com/arianccbasile/FBA_OLISSIPO_Winter_School/blob/main/systems-biology-fba-practical-main/notebooks/)2_fba.ipynb)
+#### [Exercise 2](https://github.com/arianccbasile/FBA_OLISSIPO_Winter_School/blob/main/systems-biology-fba-practical-main/notebooks/2_fba.ipynb)
 - **2.1**: Modify growth medium of your reconstruction
 - **2.2**: Perform gene essentiality analysis under different conditions
 - **2.3**: Case study, simulate the Crabtree effect in yeast
