@@ -2,3 +2,5 @@ cobra
 matplotlib
 numpy
 notebook
+micom
+pandas
