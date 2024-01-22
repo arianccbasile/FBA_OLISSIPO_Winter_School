@@ -77,11 +77,6 @@ $ jupyter notebook
 
 This should launch a browser window, where you can click on the `/notebooks` folder and start the exercises.
 
-### Running on the cloud 
-
-Alternatively launch an interactive binder session by clicking below:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/franciscozorrilla/systems-biology-fba-practical/HEAD)
 
 ## 🧠 Further exercises
 
