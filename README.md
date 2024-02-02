@@ -21,7 +21,7 @@ This repo hosts training materials for the [OLISSIPO Winter School]([https://www
 - **2.2**: Perform gene essentiality analysis under different conditions
 - **2.3**: Case study, simulate the Crabtree effect in yeast
 
-#### [Exercise 3] ()
+#### [Exercise 3] (https://github.com/arianccbasile/FBA_OLISSIPO_Winter_School/blob/main/notebooks/3_fba_community.ipynb)
 - **3.1**: Build a 2 members community
 - **3.2**: Perform community-based simulations
 - **3.3**: Basics of pandas to analyse exchanges
