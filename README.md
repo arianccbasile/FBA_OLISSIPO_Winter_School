@@ -35,7 +35,9 @@ Please install these packages on your own laptop if required:
 * [matplotlib](https://matplotlib.org/stable/)
 * [numpy](https://numpy.org/install/)
 * [notebook](https://jupyter.org/install#jupyter-notebook)
-* [micom](https://jupyter.org/install#jupyter-notebook)https://micom-dev.github.io/micom/index.html)
+* [micom](https://micom-dev.github.io/micom/index.html)
+* [pandas](https://anaconda.org/anaconda/pandas)
+* os
 
 To install on your own computers use the [pip package manager](https://pip.pypa.io/en/stable/getting-started/).
 
