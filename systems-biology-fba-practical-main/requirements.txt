@@ -1,4 +1,0 @@
-cobra
-matplotlib
-numpy
-notebook
