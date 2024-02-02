@@ -47,11 +47,6 @@ Using the `requirements.txt` files:
 $ pip install -r requirements.txt
 ```
 
-Or from scratch:
-
-```
-$ pip install cobra matplotlib numpy notebook micom
-```
 
 ## 🛠️ Usage
 
@@ -90,7 +85,7 @@ This should launch a browser window, where you can click on the `/notebooks` fol
 
 * Originally developed by Arianna Basile and Kiran Patil in 2023
 * Updated by Francisco Zorrilla and Arianna Basile in 2024
-* Updated by Arianna Basile in 2024
+* Community modelling added by Arianna Basile in 2024
 
 
 ## ☎️ Contact
