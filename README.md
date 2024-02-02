@@ -79,7 +79,7 @@ This should launch a browser window, where you can click on the `/notebooks` fol
 
 * [SymbNET](https://github.com/franciscozorrilla/SymbNET): From metagenomics to metabolic Interactions 
 * [EMBOMicroCom](https://github.com/franciscozorrilla/EMBOMicroCom): Metabolite and species dynamics in microbial communities
-* 
+
 
 ## 👷 Contributors
 
