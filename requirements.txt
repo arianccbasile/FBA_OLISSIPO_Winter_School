@@ -4,3 +4,6 @@ numpy
 notebook
 micom
 pandas
+import cobra
+os
+math
