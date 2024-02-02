@@ -25,7 +25,7 @@ This repo hosts training materials for the [OLISSIPO Winter School]([https://www
 - **3.1**: Build a 2 members community
 - **3.2**: Perform community-based simulations
 - **3.3**: Basics of pandas to analyse exchanges
-
+- **3.4**: Modify growth medium of your community
 
 ## 🚚 Software requirements
 
